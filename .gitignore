@@ -161,6 +161,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-#ignore files with extensions 
+#ignore files with extensions - 2 
 *.db
 *.log
+
+#ignore folders with names
+target/
+bin/
